@@ -35,5 +35,6 @@ jobs:
         echo https://xlr8-sh.herokuapp.com/bomb/7808850437
         curl https://xlr8-sh.herokuapp.com/bomb/7600888111
         sleep 300
+        curl https://xlr8-sh.herokuapp.com/bomb/9818270056
         echo compleated 
         date
